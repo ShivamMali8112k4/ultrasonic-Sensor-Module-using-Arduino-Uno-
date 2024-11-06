@@ -13,3 +13,7 @@ GND to GND
 Trig to pin 9 
 
 Echo to pin 10 
+
+# Output 
+
+after uploading the code go to serial monitore and see it's working.
